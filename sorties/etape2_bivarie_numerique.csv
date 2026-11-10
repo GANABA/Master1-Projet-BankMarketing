@@ -1,0 +1,11 @@
+variable;moyenne_yes;moyenne_no;d_cohen;remarque
+duration;553.191;220.845;1.402;fuite de données : variable écartée du modèle
+nr.employed;5095.116;5176.167;-1.2;
+pdays;792.036;984.114;-1.087;non interprétable : mélange sentinelle / délais réels
+euribor3m;2.123;3.811;-1.023;
+emp.var.rate;-1.233;0.249;-0.989;
+previous;0.493;0.132;0.748;
+cons.price.idx;93.354;93.604;-0.435;
+campaign;2.052;2.633;-0.21;
+cons.conf.idx;-39.79;-40.593;0.174;
+age;40.913;39.911;0.096;d faible mais relation en U : voir figure bivarie_age

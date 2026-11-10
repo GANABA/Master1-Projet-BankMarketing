@@ -1,0 +1,9 @@
+constat;mesure;suite
+Volumétrie;41188 lignes, 21 colonnes;Aucune action
+Doublons;12 lignes identiques;À trancher : clients distincts ou re-saisies
+Manquants;0 détecté par isna(), mais 'unknown' sur 6 variables;Imputation ou modalité à part : étape 3
+Sentinelle;pdays = 999 sur 96.3 % des lignes, dont 4110 contacts réels;Recodage en trois modalités, indicateur bâti sur previous : étape 3
+Aberrants;Signalés sur campaign et previous;Conservés : comportements réels
+Déséquilibre;11.27 % de souscriptions;Rééquilibrage : étape 3
+Faibles effectifs;education=illiterate (18), default=yes (3);Regroupement : étape 3
+Fuite;duration connue seulement après l'appel;Variable écartée du modèle

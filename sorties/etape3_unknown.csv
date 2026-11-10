@@ -1,0 +1,7 @@
+variable;effectif;pourcentage;traitement
+job;330;0.8012042342429834;imputation par le mode
+marital;80;0.1942313295134505;imputation par le mode
+education;1731;4.202680392347285;modalite a part
+default;8597;20.872584247839175;modalite a part
+housing;990;2.40361270272895;modalite a part
+loan;990;2.40361270272895;modalite a part

@@ -1,0 +1,12 @@
+# Les fichiers de données et les notebooks sont conservés octet pour octet.
+# Sans cela, Git convertirait les fins de ligne au passage et modifierait
+# l'empreinte du jeu de données, qui doit rester vérifiable.
+*.csv   -text
+*.txt   -text
+*.ipynb -text
+
+*.png   binary
+*.pkl   binary
+
+# Le reste suit la convention du dépôt.
+*       text=auto eol=lf

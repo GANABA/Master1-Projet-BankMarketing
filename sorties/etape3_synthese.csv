@@ -1,0 +1,12 @@
+etape;decision;justification
+Fuite;duration retiree;Connue seulement apres l appel
+Historique;deja_contacte, pdays_statut, delai_dernier_contact;"Indicateur bati sur previous ; pdays supprimee"
+Manquants;unknown : modalite a part si >= 1 %, sinon imputation par le mode;Principe de Jin & He (2019)
+Mecanisme;housing et loan manquent sur les memes lignes;Manquement structurel, non aleatoire
+Faibles effectifs;"illiterate regroupe ; default=yes conservee";Fusion avec unknown semantiquement inacceptable
+Correlations;6 paires au-dela de 0.65;Bloc macroeconomique conserve
+Encodage;ordinal pour les ordonnees, one-hot pour les nominales;Principe de Tekouabou (2019) et Jin & He (2019)
+Normalisation;12 variables continues;Le one-hot n est pas normalise
+Decoupage;aleatoire ET chronologique;Comparaison a l etape 4
+Reequilibrage;non applique ici;Apres decoupage, sur le train seul : notebook 03
+Dimensions finales;41188 lignes, 45 colonnes;11.27 % de souscriptions

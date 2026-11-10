@@ -1,0 +1,10 @@
+- https://www.semanticscholar.org/paper/A-data-driven-approach-to-predict-the-success-of-Moro-Cortez/cab86052882d126d43f72108c6cb41b295cc8a9e
+- https://www.semanticscholar.org/paper/A-data-modeling-approach-for-classification-to-bank-TEKOUABOU-Cherif/241d6ca92c4bc65ac3ee903e4732f70bff5c5e9f
+- https://www.semanticscholar.org/paper/Predicting-the-Accuracy-for-Telemarketing-Process-Alsolami-Saleem/6391b7edcdd3c443bb57624b153bf9a8cca027db
+- https://www.semanticscholar.org/paper/Using-Logistic-Regression-Model-to-Predict-the-of-Jiang/11ea58c843d0e745716d624b03067235dc285c30
+- https://www.semanticscholar.org/paper/Prediction-of-Term-Deposit-in-Bank%3A-Using-Logistic-Jiang-Wang/e36cafceaad636e9b2b558166c16be31a913ad0d
+- https://www.semanticscholar.org/paper/Optimizing-the-prediction-of-telemarketing-target-a-TEKOUABOU-Cherif/fc525fb8abc480b68111d60f41d587273aedbf3a
+- https://www.semanticscholar.org/paper/Long-term-deposits-prediction%3A-a-comparative-of-for-Ilham-Khikmah/ac8f3f45406376ffb6220f9fc7cd49b03290fcc3
+- https://www.semanticscholar.org/paper/Three-data-mining-models-to-predict-bank-Jin-He/61f79720d388436137e0ba7bc4590b16955b942d
+- https://www.semanticscholar.org/paper/Using-customer-lifetime-value-and-neural-networks-Moro-Cortez/e73ca5fd0d221168054a4f30196f952ee19916f1
+- etc ...

@@ -1,0 +1,21 @@
+# Sorties régénérables par les notebooks.
+# output.csv et params.pkl sont reconstruits en une minute par 02_preparation.
+# Les autres fichiers de sorties/ sont de petits tableaux destinés au rapport
+# et sont suivis, eux.
+sorties/output.csv
+sorties/params.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda Navigator
+anaconda_projects/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,11 @@
+variable;nb_outliers;pourcentage
+previous;5625;13.66
+duration;2963;7.19
+campaign;2406;5.84
+pdays;1515;3.68
+age;469;1.14
+cons.conf.idx;447;1.09
+emp.var.rate;0;0.0
+cons.price.idx;0;0.0
+euribor3m;0;0.0
+nr.employed;0;0.0

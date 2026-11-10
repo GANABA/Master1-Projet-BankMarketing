@@ -1,0 +1,11 @@
+variable;V_cramer
+poutcome;0.32
+month;0.274
+job;0.153
+contact;0.145
+default;0.099
+education;0.068
+marital;0.055
+day_of_week;0.025
+housing;0.012
+loan;0.005
